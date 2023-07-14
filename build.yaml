@@ -13,5 +13,5 @@
 #
 ---
 include:
-  - board: adafruit_kb2040
+  - board: nice_nano_v2
     shield: boardsource5x12
